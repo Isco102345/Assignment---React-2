@@ -13,9 +13,9 @@ body {
     font-weight: 600;
     font-style: normal;
     font-size: 18px;
-} */
+} 
 
-/* .btn{
+.btn{
     @apply text-white rounded-lg bg-[#F29724] px-4 py-2 w-full  
   }
 .btn-card{
@@ -45,9 +45,9 @@ body {
   .meals-font{
     font-family: "Pacifico", serif;
     font-size:xx-large
-  } */
+  }
 
-  /* .spinner {
+  .spinner {
     width: 100px;
     height: 100px;
     background-color: #F29724;
